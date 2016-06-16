@@ -1,5 +1,5 @@
 # Horoscope
-dialy &amp;&amp;monthly&amp;&amp; yearly horoscope via simple web scraping protocol implemeted in python
+(Daily && monthly && yearly) horoscope via simple web scraping protocol implemeted in python
 
 
 #Features
