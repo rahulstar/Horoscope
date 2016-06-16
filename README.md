@@ -4,12 +4,19 @@ dialy &amp;&amp;monthly&amp;&amp; yearly horoscope via simple web scraping proto
 
 #Features
 Today's horoscope
+
 broken down into date, sunsign and horoscope.
+
 Weekly horoscope
+
 broken down into week, sunsign and horoscope.
+
 Monthly horoscope
+
 broken down into month, sunsign and horoscope.
+
 Yearly horoscope
+
 broken down into year, sunsign and horoscope
 
 
