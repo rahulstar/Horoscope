@@ -17,13 +17,10 @@ broken down into year, sunsign and horoscope
 the user enters the date of birth and according sign is detected by scrapping the data from findyourfate.com
 and then the horoscopes is provided depending on the the i/p monthly yearly or daily
 after that the behaviour depends on the platform
-
-
-#For windows user
+For windows user
  In Windows, the program simply waits for further input from user and works accordingly,
- 
- #For linux user
+For linux user
  while on Linux, the program waits for user input or ending of the day. If user provides input, the program behaves in a manner similar to windows. 
  Otherwise, at the beginning of the day, the program simply refreshes the horoscope and provides the latest horoscopes of wrt to that date.
 
-#Python module used : regular expression(re)
+#Python module used : regular expression(re),urllib;
